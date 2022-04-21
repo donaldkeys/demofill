@@ -1,18 +1,27 @@
-sales = int(input("Sales made: "))
+sales = int(input("Enter number of sale(s) : "))
 
-shortage = (11 - sales)
-weekly_payment = 1000
+message1 = f" You earned £{1000 + 250 } Great job, Keep it up!"
+message2 = f"You have {10 - sales} sale(s) Shortage(s)"
+message3 = f" You earned £{1000} Pounds\n You could earn more by putting in an etra effort!"
 
-# For_those_that met the target.
-if sales >= 11:
+while sales >= 11:
+    print(message1)
+    break
 
-    print(f"£{1000 + 250}\n You did well, Great job!")
+if sales < 10:
+    print(message2)
 
-# For_those_that didn't meet the target.
-elif sales < 10:
+if sales == 0:
+    print("You get nothing!")
 
-    print(f"You have {shortage} shortage(s)")
-
-# For_those_that had a regular task with no extra or less.
+elif sales == 10:
+    print(message3)
 else:
-    print(f" £{weekly_payment} \n You can do better, if you put in more effort!")
+    pass
+
+
+
+
+
+
+
