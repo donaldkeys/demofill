@@ -1,27 +1,38 @@
 print("Welcome to 140 difficult words and meaning")
 
-words = {"abnegation": "Renouncing a belief or doctrine","aggrandize": "enhance power, wealth or status",
+words = {"abnegation": "Renouncing a belief or doctrine",
+             "aggrandize": "enhance power, wealth or status",
              "alacrity": "Eagerness",
              "anachronistic": "misplaced chronologically",
              "archetypal": "quintessential of a certain kind",
              "ascetic": "one who practices self-denial as part of spiritual discipline",
-             "aeguile":" influence someone in a deceptive way","Blandishment": "intentional flattery for persuasion",
-             "Cajole": "persuade by flattery or coaxing","Callous": "disregard for others",
-             "camaraderie":" a sense of solidarity arising out of familiarity and sociability",
-             "circumlocution":" expressing someone in an indirect way","Clamor": "proclaim something noisily",
-             "cognizant": "awareness or realization","Construe": "interpret or assign meaning",
+             "beguile": "influence someone in a deceptive way",
+             "Blandishment": "intentional flattery for persuasion",
+             "Cajole": "persuade by flattery or coaxing",
+             "Callous": "disregard for others",
+             "camaraderie": "a sense of solidarity arising out of familiarity and sociability",
+             "circumlocution": "expressing someone in an indirect way",
+             "Clamor": "proclaim something noisily",
+             "cognizant": "awareness or realization",
+             "Construe": "interpret or assign meaning",
              "convivial": "enjoyable atmosphere or jovial company",
-             "demagogue":" a political leader who uses rhetoric to appeal to prejudices and desires "
-             "of ordinary citizens","Denigrate ": "belittle someone",
-             "didactic ": "instructive with a moral intent","Disparate": "of a distinct kind",
+             "demagogue": "a political leader who uses rhetoric to appeal to prejudices and desires "
+             "of ordinary citizens",
+             "Denigrate ": "belittle someone",
+             "didactic ": "instructive with a moral intent",
+             "Disparate": "of a distinct kind",
              "eclectic": "deriving the best ideas and styles from a diverse range of sources",
-             "egregious": "reprehensible or outrageously bad","Embezzlement": "misappropriation of funds",
+             "egregious": "reprehensible or outrageously bad",
+             "Embezzlement": "misappropriation of funds",
              "enervate": "lacking in vitality or mentally/ morally drained",
-             "ephemeral": "lasting for a short duration","equanimity": "maintaining composure in stressful situations",
-             "fatuous": "devoid of intelligence","gratuitous": "uncalled for or unwarranted",
+             "ephemeral": "lasting for a short duration",
+             "equanimity": "maintaining composure in stressful situations",
+             "fatuous": "devoid of intelligence",
+             "gratuitous": "uncalled for or unwarranted",
              "iconoclast": "someone who criticizes or attacks cherished ideas and beliefs",
              "idiosyncratic": "something peculiar to an individual",
-             "incumbent": "something that is morally binding","inveterate":"habitual",
+             "incumbent": "something that is morally binding",
+             "inveterate": "habitual",
              "libertarian": "someone who cherishes ideas of free will",
              "licentious": "someone who is promiscuous",
              "largess": "Kindness or Generosity in bestowing gifts or money",
@@ -44,20 +55,21 @@ words = {"abnegation": "Renouncing a belief or doctrine","aggrandize": "enhance 
              "abscond": "Leave hurriedly and secretly",
              "bereft": "Deprived of or lacking-The house bereft of colours & painting",
              "calumny": "The making of false and defamatory statements about someone in order to damage "
-             "their reputation","capitulate": "Cease to resist an opponent or an unwelcome demand",
+             "their reputation",
+             "capitulate": "Cease to resist an opponent or an unwelcome demand",
              "umbrage": "Annoyance or offence",
              "emollient": "Having the quality of softening or soothing the skin",
              "dirge": "A lament for the dead, especially one forming part of a funeral rite",
              "dispel": "make doubt disappear",
-             "epistolary":" In the form of letters or documents",
+             "epistolary": "In the form of letters or documents",
              "exacerbate": "To make a situation, a bad feeling or a problem worse",
              "forbearance": "Self-control, Patience, Tolerance",
-             "gourmand":" A person who likes and enjoys eating food",
+             "gourmand": "A person who likes and enjoys eating food",
              "heterogeneous": "Diverse in content or character",
              "impecunious": "Having less money or no money at all",
              "pellucid": "Clear, Easy to understand, comprehensible",
-             "philanthropic" : "An organisation or person promoting the welfare of others",
-             "protean" : "Frequently changing, Trending, Versatile",
+             "philanthropic": "An organisation or person promoting the welfare of others",
+             "protean": "Frequently changing, Trending, Versatile",
              "spurious": "Illegitimate, False",
              "back": "The rear surface of the human body from the shoulders to the hips.",
              "base": "The lowest part or edge of something, especially the part on which it rests or is supported.",
@@ -81,20 +93,23 @@ words = {"abnegation": "Renouncing a belief or doctrine","aggrandize": "enhance 
              "day": "Each of the twenty-four-hour periods, reckoned from one midnight to the next, into which a week, "
              " or year is divided, and corresponding to a rotation of the earth on its axis.",
              "death": "The action or fact of dying or being killed; the end of the life of a person or organism.",
-             "decision": "A conclusion or resolution reached after consideration.","detail":"An individual fact or item",
+             "decision": "A conclusion or resolution reached after consideration.",
+             "detail": "An individual fact or item",
              "development": "The process of developing or being developed.",
              "direction": "A course along which someone or something moves.",
              "comparison": "A consideration or estimate of the similarities or dissimilarities between two things",
-             "competition": "The activity or condition of striving to gain or win something by defeating or establishing superiority over others",
+             "competition": "The activity or condition of striving to gain or win something by defeating or "
+                            "establishing superiority over others",
              "connection": "A relationship in which a person or thing is linked or associated with something else.  ",
              "cook": "To prepare (food, a dish, or a meal) by mixing, combining, and heating the ingredients.",
              "country": "A nation with its own government, occupying a particular territory.",
              "cover": "To put something on top of or in front of (something), especially in order to protect ",
              "credit": "It is the ability of a customer to obtain goods or services before payment",
              "cry": "To shed tears, typically as an expression of distress, pain, or sorrow.",
-             "care": "The provision of what is necessary for the health, welfare, maintenance, and protection of someone or something. ",
-             "Cause: A person or thing that gives rise to an action or phenomenon"
-             "chance":"It is the probability of something desirable happening",
+             "care": "The provision of what is necessary for the health, welfare, maintenance,"
+                     " and protection of someone or something. ",
+             "Cause": "A person or thing that gives rise to an action or phenomenon",
+             "chance": "It is the probability of something desirable happening",
              "change": "Make (someone or something) different; alter or modify. ",
              "cloth": "A woven or felted fabric made from wool, cotton, or a similar fibre. ",
              "colour": "The property possessed by an object of producing different sensations on "
@@ -103,20 +118,25 @@ words = {"abnegation": "Renouncing a belief or doctrine","aggrandize": "enhance 
              "Company": "A commercial business",
              "art": "The expression or application of human creative skill and imagination",
              "attack": "Take aggressive military action against with weapons or armed force",
-             "attention": "When a notice is taken of someone or somethingthe regarding of someone",
-             "blood": "The red liquid that circulates in the arteries and veins of humans and other vertebrate animals",
-             "carrying oxygen and carbon dioxide from the tissues of the body."
-             "blow":"(Of wind) move creating an air current.",
+             "attention": "When a notice is taken of someone or something regarding of someone",
+             "blood": "The red liquid that circulates in the arteries and veins of humans and other vertebrate animals "
+                      "carrying oxygen and carbon dioxide from the tissues of the body.",
+             "blow": "(Of wind) move creating an air current.",
              "body": "The physical structure, including the bones, flesh, and organs, of a person or an animal.",
              "account": "A report or description of an event or experience OR a record or statement of financial "
              "expenditure and receipts relating to a particular period or purpose. ",
              "air": "The invisible gaseous substance surrounding the earth, a mixture mainly of oxygen and nitrogen",
              "amount": "A quantity of something, especially the total of a thing or things in number, size, value,",
-             "Animal":"A living organism that feeds on organic matter, typically having specialized sense"}
+             "Animal": "A living organism that feeds on organic matter, typically having specialized sense"}
 
-user = input("Enter word correctly for meaning: ").lower()
+for key in words:
+    print(key)
 
-print(words[user])
+user = input("Enter any word from the above vocabulary correctly for meaning: ").lower()
 
+if user in words:
+    print(words[user])
 
+else:
+    print("Pick from the above vocabulary or check spelling error!")
 
